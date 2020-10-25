@@ -626,7 +626,7 @@ aside:
     button:
       icon: fab fa-github
       text: Follow Me
-      link: https://github.com/xxxxxx
+      link: https://github.com/kwey
   card_announcement:
     enable: true
     content: This is my Blog
@@ -668,7 +668,7 @@ runtimeshow:
 
 # Aside widget - Newest Comments
 newest_comments:
-  enable: false
+  enable: true
   limit: 6
   avatar: true
   leancloud:
@@ -692,7 +692,7 @@ newest_comments:
 translate:
   enable: false
   # The text of a button
-  default: 繁
+  default: 簡
   # the language of website (1 - Traditional Chinese/ 2 - Simplified Chinese）
   defaultEncoding: 2
   # Time delay
