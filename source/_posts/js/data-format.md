@@ -2,7 +2,7 @@
 title: Date对象 format
 tags: 'Javascript'
 categories: 'web'
-# top_img: '/img/404.jpg'
+top_img: '../../img/js.jpg'
 ---
 Date对象的内置方法以及自定义格式化
 

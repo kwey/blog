@@ -1,8 +1,8 @@
 ---
 title: 视频播放
-tags: 'Javascript'
+tags: 'html'
 categories: 'web'
-# top_img: '/img/404.jpg'
+top_img: '../../img/html.jpg'
 ---
 随着流量时代的到来和硬件技术的提升，越来越多的网站希望能在PC端或移动端播放自己的视频，而 video的兼容性的逐渐完善，使得开发者更愿意使用它来实现视频播放场景。
 

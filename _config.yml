@@ -10,8 +10,8 @@
 # language	网站使用的语言。对于简体中文用户来说，使用不同的主题可能需要设置成不同的值，请参考你的主题的文档自行设置，常见的有 zh-Hans和 zh-CN。
 # timezone	网站时区。Hexo 默认使用您电脑的时区。请参考 时区列表 进行设置，如 America/New_York, Japan, 和 UTC 。一般的，对于中国大陆地区可以使用 Asia/Shanghai。
 # Site
-title: '雪人的笔记'
-subtitle: 'asdasd'
+title: '雪人'
+subtitle: '笔记'
 description: '雪人的笔记'
 keywords: 'sql  python node  video web html css javascript'
 author: '雪人'

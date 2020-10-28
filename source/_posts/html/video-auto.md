@@ -1,8 +1,8 @@
 ---
 title: 音视频自动播放问题
-tags: 'Javascript'
+tags: 'html'
 categories: 'web'
-# top_img: '/img/404.jpg'
+top_img: '../../img/html.jpg'
 ---
 不同浏览器下 autoplay 的限制策略和方案的整理
 
@@ -31,11 +31,11 @@ MEI 是一个评估用户对于当前站点的媒体参与程度的指数，它�
 var promise = document.querySelector("video").play();
 if (promise !== undefined) {
     promise
-        .catch(error =&gt; {
+        .catch(error => {
             // Auto-play was prevented
             // Show a UI element to let the user manually start playback
         })
-        .then(() =&gt; {
+        .then(() => {
             // Auto-play started
         });
 ```

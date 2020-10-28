@@ -1,8 +1,8 @@
 ---
 title: CSS 与 JS 阻塞 DOM 解析和渲染的
-tags: 'Html'
+tags: 'html'
 categories: 'web'
-# top_img: '/img/404.jpg'
+top_img: '../../img/html.jpg'
 ---
 
 link 标签放在头部性能会高一点，少一点人知道如果 script 与 link 同时在头部的话， script 在上可能会更好
