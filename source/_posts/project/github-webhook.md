@@ -2,7 +2,7 @@
 title: Github + Webhooks 自动化部署流程（vue-ssr
 tags: 'github'
 categories: 'project'
-top_img: '../../img/git.png'
+top_img: '/img/git.png'
 ---
 
 
@@ -13,7 +13,7 @@ top_img: '../../img/git.png'
 * 4、把正在运行的目录（dist）重命名（pre），（next）重命名（dist）
 * 5、重启服务
 ## 二、GitHub的webhooks
-![](../../img/webhook.png)
+![](/img/webhook.png)
 
 ## 三、创建 webhook 服务后端
 

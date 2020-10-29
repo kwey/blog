@@ -2,7 +2,7 @@
 title: HTML 音频/视频 DOM 参考手册
 tags: 'html'
 categories: 'web'
-top_img: '../../img/html.jpg'
+top_img: '/img/html.jpg'
 ---
 > HTML5 DOM 为 `<audio> 和 <video>` 元素提供了方法、属性和事件。
 

@@ -2,12 +2,12 @@
 title: Linux vi/vim
 tags: 'cmd'
 categories: 'Linux'
-top_img: '../../img/linux.jpg'
+top_img: '/img/linux.jpg'
 ---
 
 > Vim是从 vi 发展出来的一个文本编辑器。代码补完、编译及错误跳转等方便编程的功能特别丰富，在程序员中被广泛使用。
-![](../../img/vi-cmd.gif)
-![](../../img/vim-vi.png)
+![](/img/vi-cmd.gif)
+![](/img/vim-vi.png)
 
 <a href="http://www.runoob.com/linux/linux-vim.html" target="_blank">原文地址</a>
 

@@ -2,7 +2,7 @@
 title: Mongoose Populate 基本使用
 tags: 'Mongodb'
 categories: 'Databse'
-top_img: '../../img/database.jpg'
+top_img: '/img/database.jpg'
 ---
 > 在使用 mongoose 时，通过一个外键与另一张表建立关联
 

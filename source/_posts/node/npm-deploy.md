@@ -2,7 +2,7 @@
 title: npm 包发布流程
 tags: 'npm'
 categories: 'Node'
-top_img: '../../img/node.jpg'
+top_img: '/img/node.jpg'
 ---
 
 ## [【npm】利用npm安装/删除/发布/更新/撤销发布包](https://www.cnblogs.com/penghuwan/p/6973702.html)

@@ -2,7 +2,7 @@
 title: opacity、visibility、display
 tags: 'css'
 categories: 'web'
-top_img: '../../img/css.jpg'
+top_img: '/img/css.jpg'
 ---
 
 

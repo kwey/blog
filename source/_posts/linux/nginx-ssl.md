@@ -2,7 +2,7 @@
 title: Linux Nginx ssl证书部署
 tags: 'nginx'
 categories: 'Linux'
-top_img: '../../img/linux.jpg'
+top_img: '/img/linux.jpg'
 ---
 
 ## Nginx ssl证书部署,反向代理本地服务

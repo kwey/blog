@@ -2,7 +2,7 @@
 title: css图层
 tags: 'css'
 categories: 'web'
-top_img: '../../img/css.jpg'
+top_img: '/img/css.jpg'
 ---
 
 [浏览器层合成与页面渲染优化](https://juejin.im/post/6844903959425974280#heading-6)

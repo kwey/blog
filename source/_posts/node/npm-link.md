@@ -2,7 +2,7 @@
 title: npm包开发调试
 tags: 'npm'
 categories: 'Node'
-top_img: '../../img/node.jpg'
+top_img: '/img/node.jpg'
 ---
 开发NPM模块的时候，有时我们会希望，边开发边试用，比如本地调试的时候， 
 ``` javascript

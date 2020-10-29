@@ -2,7 +2,7 @@
 title: python中的装饰器
 tags: 'cmd'
 categories: 'python'
-top_img: '../../img/python.jpg'
+top_img: '/img/python.jpg'
 ---
 
 

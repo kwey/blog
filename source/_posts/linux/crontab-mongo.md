@@ -2,7 +2,7 @@
 title: Linux定时任务 + mongodb自动备份
 tags: 'cmd'
 categories: 'Linux'
-top_img: '../../img/linux.jpg'
+top_img: '/img/linux.jpg'
 ---
 
 > mongodump -d k-blog -c articles -o ./

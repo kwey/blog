@@ -2,7 +2,7 @@
 title: Linux安装jdk的三种方法
 tags: 'jdk'
 categories: 'Linux'
-top_img: '../../img/linux.jpg'
+top_img: '/img/linux.jpg'
 ---
 
 

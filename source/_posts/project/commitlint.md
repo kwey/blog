@@ -2,7 +2,7 @@
 title: git的commit规范及强制校验
 tags: 'git'
 categories: 'project'
-top_img: '../../img/git.png'
+top_img: '/img/git.png'
 ---
 > commitlint 配合husky 在git push 代码之前检测commit messages
 

@@ -2,7 +2,7 @@
 title: Flex 布局教程
 tags: 'css'
 categories: 'web'
-top_img: '../../img/css.jpg'
+top_img: '/img/css.jpg'
 ---
 
 ## 6个属性设置在容器上:

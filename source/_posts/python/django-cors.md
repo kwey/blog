@@ -2,7 +2,7 @@
 title: Django配置Ajax跨域调用/设置Cookie
 tags: 'django'
 categories: 'python'
-top_img: '../../img/python.jpg'
+top_img: '/img/python.jpg'
 ---
 ## django-cors-headers
 

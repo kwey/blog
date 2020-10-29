@@ -2,7 +2,7 @@
 title: CentOS7下yum安装Java
 tags: 'java'
 categories: 'Linux'
-top_img: '../../img/linux.jpg'
+top_img: '/img/linux.jpg'
 ---
 
 ## 一：查看yum包含的jdk版本

@@ -2,7 +2,7 @@
 title: css图层
 tags: 'css'
 categories: 'web'
-top_img: '../../img/css.jpg'
+top_img: '/img/css.jpg'
 ---
 
 > 在 DOM 树中每个节点都会对应一个 LayoutObject，当他们的 LayoutObject 处于相同的坐标空间时，就会形成一个 RenderLayers ，也就是渲染层

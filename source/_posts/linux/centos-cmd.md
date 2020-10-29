@@ -2,7 +2,7 @@
 title: centos7 常用命令【systemctl替换service】
 tags: 'centos'
 categories: 'Linux'
-top_img: '../../img/linux.jpg'
+top_img: '/img/linux.jpg'
 ---
 
 

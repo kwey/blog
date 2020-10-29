@@ -1,8 +1,8 @@
 ---
 title: 音视频自动播放问题
-tags: 'html'
+tags: 'video'
 categories: 'web'
-top_img: '../../img/html.jpg'
+top_img: '/img/html.jpg'
 ---
 不同浏览器下 autoplay 的限制策略和方案的整理
 

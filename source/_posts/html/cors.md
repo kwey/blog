@@ -2,7 +2,7 @@
 title: CORS settings attributes
 tags: 'html'
 categories: 'web'
-top_img: '../../img/html.jpg'
+top_img: '/img/html.jpg'
 ---
 > 在HTML5中，一些 HTML 元素提供了对 CORS 的支持， 例如`<img>和 <video>`均有一个跨域属性 (crossOriginproperty)，它允许你配置元素获取数据的 CORS 请求。
 

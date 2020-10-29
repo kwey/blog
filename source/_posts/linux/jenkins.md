@@ -2,7 +2,7 @@
 title: CentOS7下yum安装Jenkins
 tags: 'centos'
 categories: 'Linux'
-top_img: '../../img/linux.jpg'
+top_img: '/img/linux.jpg'
 ---
 
 

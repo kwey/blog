@@ -2,7 +2,7 @@
 title: 使用pushState()改变url而不刷新
 tags: 'html'
 categories: 'web'
-top_img: '../../img/html.jpg'
+top_img: '/img/html.jpg'
 ---
 > HTML5提供history接口，把URL以state的形式添加或者替换到浏览器中，其实现函数正是 pushState 和 replaceState。
 

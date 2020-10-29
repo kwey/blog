@@ -2,7 +2,7 @@
 title: 使用kcptun加速shadowsocks
 tags: 'centos'
 categories: 'Linux'
-top_img: '../../img/linux.jpg'
+top_img: '/img/linux.jpg'
 ---
 
 > Kcptun 是一个非常简单和快速的，基于 KCP 协议的 UDP 隧道，它可以将 TCP 流转换为 KCP+UDP 流。而 KCP 是一个快速可靠协议，能以比 TCP 浪费100%-200%的带宽的代价（理想状态下），换取平均延迟降低 30%-40%，且最大延迟降低三倍的传输效果。
@@ -15,7 +15,7 @@ top_img: '../../img/linux.jpg'
 
 
 工作原理：
-![](../../img/kcp.png)
+![](/img/kcp.png)
 
 
 ## 服务端安装 KCPTun
@@ -74,7 +74,7 @@ key=hongye123;crypt=none;mode=fast2;mtu=1350;sndwnd=512;rcvwnd=512;datashard=10;
 ## 客户端配置（这里只介绍mac
 <a href="https://github.com/shadowsocks/ShadowsocksX-NG/releases" target="_blank">点击下载最新的ShadowsocksX-NG</a>（我这里下载的是1.9.2版本
 具体配置如下：
-![](../../img/ssr.png)
+![](/img/ssr.png)
 
 注： 端口号要填写kcptun的端口号，参数选项即为上述，服务端安装好之后返回的一串数据
 

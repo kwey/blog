@@ -352,21 +352,21 @@ root 指令
 ``` bash
 location /dir/ 
 root root_path
--&gt;http://host/dir/file.txt
--&gt; root_path/dir/file.txt
+->http://host/dir/file.txt
+-> root_path/dir/file.txt
 ```
 
 alias 指令
 ``` bash
 location /dir
 alias alias_path 
--&gt;http://host /dir /file.txt
--&gt; alias_path/file.txt
+->http://host /dir /file.txt
+-> alias_path/file.txt
 
 location /dir/ 
 alias alias_path/
--&gt;http://host/dir/ file.txt
--&gt;alias_path/file.txt
+->http://host/dir/ file.txt
+->alias_path/file.txt
 ```
 
 了解了root和alise之后，通常最佳实际是配置一个项目的根root，其他的文件夹则使用alias，毕竟alias更加灵活。</div><br>

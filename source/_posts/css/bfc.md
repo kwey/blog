@@ -2,7 +2,7 @@
 title: CSS中的BFC
 tags: 'css'
 categories: 'web'
-top_img: '../../img/css.jpg'
+top_img: '/img/css.jpg'
 ---
 
 > BFC（Block Formatting Context）直译为“块级格式化范围 

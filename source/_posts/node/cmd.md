@@ -2,7 +2,7 @@
 title: 使用Node 开发命令行程序
 tags: 'CMD'
 categories: 'Node'
-top_img: '../../img/node.jpg'
+top_img: '/img/node.jpg'
 ---
 
 ## 一、可执行脚本

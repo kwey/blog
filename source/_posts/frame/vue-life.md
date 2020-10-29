@@ -2,7 +2,7 @@
 title: vue生命周期
 tags: 'vue'
 categories: 'frame'
-top_img: '../img/vue-life.jpeg'
+top_img: '/img/vue-life.jpeg'
 ---
 从组件被创建，到组件挂载到页面上运行，再到页面关闭组件被卸载，这三个阶段总是伴随着组件各种各样的事件，那么这些事件，统称为组件的生命周期函数！
 
@@ -16,7 +16,7 @@ top_img: '../img/vue-life.jpeg'
 > 完成挂载
 
 另外在标红处，我们能发现el还是 {{message}}，这里就是应用的  Virtual DOM （虚拟Dom）技术，先把坑占住了。到后面 mounted 挂载的时候再把值渲染进去。
-![](https://images2018.cnblogs.com/blog/940884/201804/940884-20180412132300452-1291005055.png)
+![](/img/vue1.png)
 
 * update 相关
 这里我们在 chrome console里执行以下命令
@@ -24,12 +24,12 @@ top_img: '../img/vue-life.jpeg'
  app.message= 'yes !! I do'; 
  ```
 下面就能看到data里的值被修改后，将会触发update的操作。
-![](https://images2018.cnblogs.com/blog/940884/201804/940884-20180412132317849-829572007.png)
+![](/img/vue2.png)
 * *destroy相关
 有关于销毁，暂时还不是很清楚。我们在console里执行下命令对 vue实例进行销毁。销毁完成后，我们再重新改变message的值，vue不再对此动作进行响应了。但是原先生成的dom元素还存在，可以这么理解，执行了destroy操作，后续就不再受vue控制了。因为这个Vue实例已经不存在了。
 
 app.$destroy();
-![](https://images2018.cnblogs.com/blog/940884/201804/940884-20180412132336686-2110662615.png)
+![](/img/vue3.png)
 生命周期总结
 
 beforecreate : 举个栗子：可以在这加个loading事件
@@ -207,4 +207,4 @@ export default Vue;
 
 ```
 
-![alt ''](../../img/vue-life.jpeg)
+![alt ''](/img/vue-life.jpeg)

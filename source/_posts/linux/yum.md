@@ -2,7 +2,7 @@
 title: linux下安装软件--yum命令
 tags: 'cmd'
 categories: 'Linux'
-top_img: '../../img/linux.jpg'
+top_img: '/img/linux.jpg'
 ---
 
 > 在安装yum的时候，yum会建立它的软件仓库，可以通过yum repolist来查看有哪些，yum库的定义目录为/etc/yum.repos.d,一般情况下，这些预装的库能满足我们的需要,如果自己添加repository需要相应URL和密钥。

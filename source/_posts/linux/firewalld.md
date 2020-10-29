@@ -2,7 +2,7 @@
 title: centos7安装防火墙firewalld
 tags: 'cmd'
 categories: 'Linux'
-top_img: '../../img/linux.jpg'
+top_img: '/img/linux.jpg'
 ---
 
 默认情况下CentOS 7可能已经安装了firewalld服务，若确实没有安装直接使用yum命令安装即可：

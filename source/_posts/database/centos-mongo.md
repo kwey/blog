@@ -2,7 +2,7 @@
 title: CentOS 7上安装和配置MongoDB
 tags: 'Mongodb'
 categories: 'Databse'
-top_img: '../../img/database.jpg'
+top_img: '/img/database.jpg'
 ---
 
 [数据库以及 Node/Express 应用的数据库集成(Mongoose)](https://developer.mozilla.org/zh-CN/docs/learn/Server-side/Express_Nodejs/mongoose)

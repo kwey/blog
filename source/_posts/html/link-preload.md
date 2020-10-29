@@ -2,7 +2,7 @@
 title: 通过rel="preload"进行内容预加载
 tags: 'html'
 categories: 'web'
-top_img: '../../img/html.jpg'
+top_img: '/img/html.jpg'
 ---
 
 > link 元素的 rel 属性的属性值preload能够让你在你的HTML页面中 head元素内部书写一些声明式的资源获取请求，可以指明哪些资源是在页面加载完成后即刻需要的

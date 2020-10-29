@@ -2,7 +2,7 @@
 title: HTML 中<link>元素
 tags: 'html'
 categories: 'web'
-top_img: '../../img/html.jpg'
+top_img: '/img/html.jpg'
 ---
 
 > HTML 中link元素规定了外部资源与当前文档的关系。 这个元素可用来为导航定义一个关系框架。这个元素最常于链接样式表。

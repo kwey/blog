@@ -2,7 +2,7 @@
 title: CSS盒模型以及外边距合并
 tags: 'CSS'
 categories: 'web'
-top_img: '../../img/css.jpg'
+top_img: '/img/css.jpg'
 ---
 
 盒模型的四要素是border、margin、padding、content
@@ -10,7 +10,7 @@ top_img: '../../img/css.jpg'
 盒模型基本概念
 所有HTML元素，在页面的呈现过程中，都遵循CSS制定的盒模型。盒模型的几个要素是 border 、 margin 、 padding 、 content ，如下图，
 
-![alt 'css box'](../../img/css-box.jpg)
+![alt 'css box'](/img/css-box.jpg)
 
 盒模型
 * content：真正包含元素内容的区域
@@ -33,7 +33,7 @@ W3C标准盒模型（高度的计算类似）：
 
 盒子的总宽度= margin-left + border-left + padding-left + width + padding-right + border-right + margin-right 
 
-![alt 'W3C标准模型'](../../img/css-box-standard.jpg)
+![alt 'W3C标准模型'](/img/css-box-standard.jpg)
 
 
 IE怪异盒模型（高度的计算类似）：
@@ -41,7 +41,7 @@ IE怪异盒模型（高度的计算类似）：
 一个元素的宽度= content + padding + border 
 盒子的总宽度= margin-left + width + margin-right 
 
-![alt 'IE盒子模型'](../../img/css-box-ie.jpg)
+![alt 'IE盒子模型'](/img/css-box-ie.jpg)
 
 如何通过CSS设置IE盒模型和W3C标准盒模型
 ```css

@@ -2,7 +2,7 @@
 title: 数据库的备份、还原、导入及导出
 tags: 'Mongodb'
 categories: 'Databse'
-top_img: '../../img/database.jpg'
+top_img: '/img/database.jpg'
 ---
 
 [mongodb 备份、还原、导入、导出简单操作](https://segmentfault.com/a/1190000006236494)

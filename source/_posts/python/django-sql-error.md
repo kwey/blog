@@ -2,7 +2,7 @@
 title: django2.2版本中pymysql报错
 tags: 'django'
 categories: 'python'
-top_img: '../../img/frame.jpg'
+top_img: '/img/frame.jpg'
 ---
 
 ImproperlyConfigured: mysqlclient 1.3.13 or newer is required

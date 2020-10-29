@@ -2,7 +2,7 @@
 title: Centos7 安装nvm、node
 tags: 'centos'
 categories: 'Linux'
-top_img: '../../img/linux.jpg'
+top_img: '/img/linux.jpg'
 ---
 
 首先：

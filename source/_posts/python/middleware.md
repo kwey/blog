@@ -2,14 +2,14 @@
 title: django2.2版本中pymysql报错
 tags: 'django'
 categories: 'python'
-top_img: '../../img/python.jpg'
+top_img: '/img/python.jpg'
 ---
 
 我们从浏览器发出一个请求 Request，得到一个响应后的内容 HttpResponse ，这个请求传递到 Django的过程如下：
 
 
 
-![](../../img/middleware.jpg)
+![](/img/middleware.jpg)
 
 也就是说，每一个请求都是先通过中间件中的 process_request 函数，这个函数返回 None 或者 HttpResponse 对象，如果返回前者，继续处理其它中间件，如果返回一个 HttpResponse，就处理中止，返回到网页上。
 

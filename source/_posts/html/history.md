@@ -2,7 +2,7 @@
 title: pushState、replaceState、popstate 事件阻塞 DOM 解析和渲染的
 tags: 'html'
 categories: 'web'
-top_img: '../../img/html.jpg'
+top_img: '/img/html.jpg'
 ---
 
 > HTML5引入了 history.pushState() 和 history.replaceState() 方法，它们分别可以添加和修改历史记录条目。这些方法通常与window.onpopstate 配合使用。
