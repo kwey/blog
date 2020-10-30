@@ -2,7 +2,7 @@
 title: new 命令
 tags: 'Javascript'
 categories: 'web'
-top_img: '../../img/js.jpg'
+top_img: '/img/js.jpg'
 ---
 
 ## new命令的原理
@@ -56,18 +56,3 @@ function f() {
 f() // false
 new f() // true
 ```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
