@@ -2,7 +2,8 @@
 title: TypeScript 3.7、TypeScript 3.8 Beta
 tags: 'typescript'
 categories: 'Javascript'
-top_img: '../../img/js.jpg'
+top_img: '/img/js.jpg'
+cover: '/img/js.jpg'
 ---
 
 
@@ -26,14 +27,14 @@ top_img: '../../img/js.jpg'
 
 ``` javascript
 function isString(val: any): val is string {
-        return typeof val === "string";
-    }
+    return typeof val === "string";
+}
 
 function yell(str: any) {
     if (isString(str)) {
         return str.toUppercase();
     }
-throw "Oops!";
+    throw "Oops!";
 }
 ```
 

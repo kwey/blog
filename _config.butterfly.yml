@@ -9,12 +9,14 @@
 menu:
   首页: / || fas fa-home
   时间轴: /archives/ || fas fa-archive
-  标籤: /tags/ || fas fa-tags
+  标签: /tags/ || fas fa-tags
   分类: /categories/ || fas fa-folder-open
-  清单||fa fa-heartbeat:
-    - 音乐 || /music/ || fas fa-music
-    - 照片 || /Gallery/ || fas fa-images
-    - 电影 || /movies/ || fas fa-video
+  工具集||fa fa-heartbeat:
+    - 收藏夹 || /follow/ || fas fa-star
+    # - 静态页面 || /web_page/ || fas fa-images
+    - audio_context || /audio/ || fas fa-music
+    - 在线Piano || /piano/ || fas fa-music
+    - Canvas绘图 || /hy/ || fas fa-video
   # 友链: /link/ || fas fa-link
   # 关于: /about/ || fas fa-heart
 
@@ -61,7 +63,7 @@ algolia_search:
 
 # Local search
 local_search:
-  enable: false
+  enable: true
   labels:
     input_placeholder: Search for Posts
     hits_empty: "We didn't find any results for the search: ${query}" # if there are no result
@@ -170,7 +172,7 @@ post_meta:
 
 # wordcount (字數統計)
 wordcount:
-  enable: false
+  enable: true
   post_wordcount: true
   min2read: true
   total_wordcount: true
@@ -261,7 +263,7 @@ comments:
   # Choose: Disqus/Disqusjs/Livere/Gitalk/Valine/Utterances/Facebook Comments
   use:
   # - Valine
-  - Disqus
+  # - Disqus
   text: true # Display the comment name next to the button
   # lazyload: The comment system will be load when comment element enters the browser's viewport.
   # If you set it to true, the comment count will be invalid
@@ -619,7 +621,7 @@ preloader: false
 aside:
   enable: true
   mobile: true # display on mobile
-  position: right # left or right
+  position: left # left or right
   card_author:
     enable: true
     description:
@@ -669,7 +671,7 @@ runtimeshow:
 # Aside widget - Newest Comments
 newest_comments:
   enable: true
-  limit: 6
+  limit: 8
   avatar: true
   leancloud:
     enable: false
@@ -791,7 +793,7 @@ baidu_push: false
 
 # https://instant.page/
 # prefetch (預加載)
-instantpage: false
+instantpage: true
 
 # https://github.com/vinta/pangu.js
 # Insert a space between Chinese character and English character (中英文之間添加空格)

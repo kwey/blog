@@ -37,6 +37,8 @@ category_dir: categories
 code_dir: downloads/code
 i18n_dir: :lang
 skip_render:
+  # - follow/**
+  # - piano/**
 
 # Writing
 new_post_name: :title.md # File name of new posts
@@ -114,3 +116,9 @@ deploy:
   type: 'git'
   repo: 'https://github.com/kwey/kwey.github.io.git'
   branch: main
+
+search:
+  path: search.xml
+  field: post
+  format: html
+  limit: 10000

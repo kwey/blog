@@ -2,7 +2,8 @@
 title: 红小豆语录
 tags: 'hy'
 categories: 'other'
-top_img: '/img/git.png'
+top_img: '/img/hy.jpeg'
+cover: '/img/hy.jpeg'
 ---
 
 ## 一、术语
