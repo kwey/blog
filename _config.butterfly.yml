@@ -17,6 +17,13 @@ menu:
     - audio_context || /audio/ || fas fa-music
     - 在线Piano || /piano/ || fas fa-music
     - Canvas绘图 || /hy/ || fas fa-video
+  文档库 ||fa fa-heartbeat:
+    - CI || /2020/11/15/doc/ci/ || far fa-circle
+    - h264 || /2020/11/15/doc/h264/ || far fa-video
+    - f4v || /2020/11/15/doc/f4v/ || far fa-video
+    - mask || /2020/11/15/doc/mask/ || far fa-mask
+    - Django || /2020/11/15/doc/dj/ || far fa-python
+    - MSE || /2020/11/15/doc/mse/ || far fa-buffer
   # 友链: /link/ || fas fa-link
   # 关于: /about/ || fas fa-heart
 
@@ -658,9 +665,9 @@ aside:
 # busuanzi count for PV / UV in site
 # 訪問人數
 busuanzi:
-  site_uv: true
-  site_pv: true
-  page_pv: true
+  site_uv: false
+  site_pv: false
+  page_pv: false
 
 # Time difference between publish date and now (網頁運行時間)
 # Formal: Month/Day/Year Time or Year/Month/Day Time
