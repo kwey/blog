@@ -11,7 +11,7 @@ menu:
   时间轴: /archives/ || fas fa-archive
   标签: /tags/ || fas fa-tags
   分类: /categories/ || fas fa-folder-open
-  CLI: /cli/ || fas fa-folder-open
+  CLI: /cli/ || fas fa-retweet
   工具集||fa fa-heartbeat:
     - 收藏夹 || /follow/ || fas fa-star
     # - 静态页面 || /web_page/ || fas fa-images
