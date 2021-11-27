@@ -18,6 +18,7 @@ menu:
     - audio_context || /audio/ || fas fa-music
     - 在线Piano || /piano/ || fas fa-music
     - Canvas绘图 || /hy/ || fas fa-video
+    - 剪映调色 || /jianyin/ || fas fa-video
   文档库 ||fa fa-heartbeat:
     - CI || /2020/11/19/doc/ci/ 
     - h264 || /2020/11/19/doc/h264/ 
