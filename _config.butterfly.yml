@@ -11,19 +11,21 @@ menu:
   时间轴: /archives/ || fas fa-archive
   标签: /tags/ || fas fa-tags
   分类: /categories/ || fas fa-folder-open
+  CLI: /cli/ || fas fa-retweet
   工具集||fa fa-heartbeat:
     - 收藏夹 || /follow/ || fas fa-star
     # - 静态页面 || /web_page/ || fas fa-images
     - audio_context || /audio/ || fas fa-music
     - 在线Piano || /piano/ || fas fa-music
     - Canvas绘图 || /hy/ || fas fa-video
+    - 剪映调色 || /jianyin/ || fas fa-video
   文档库 ||fa fa-heartbeat:
-    - CI || /2020/11/15/doc/ci/ || far fa-circle
-    - h264 || /2020/11/15/doc/h264/ || far fa-video
-    - f4v || /2020/11/15/doc/f4v/ || far fa-video
-    - mask || /2020/11/15/doc/mask/ || far fa-mask
-    - Django || /2020/11/15/doc/dj/ || far fa-python
-    - MSE || /2020/11/15/doc/mse/ || far fa-buffer
+    - CI || /2020/11/19/doc/ci/ 
+    - h264 || /2020/11/19/doc/h264/ 
+    - f4v || /2020/11/19/doc/f4v/ 
+    - mask || /2020/11/19/doc/mask/ 
+    - Django || /2020/11/19/doc/dj/ 
+    - MSE || /2020/11/19/doc/mse/ 
   # 友链: /link/ || fas fa-link
   # 关于: /about/ || fas fa-heart
 
